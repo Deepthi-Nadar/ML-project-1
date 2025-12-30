@@ -77,10 +77,15 @@ Legit Transaction. Probability: 0.00 🚨 FRAUD ALERT! Probability: 0.91
 ## Project Structure
 
 CreditCardFraudDetection/
+
 │
+
 ├── CreditCardFraudDetection.ipynb   # Containing data analysis, model training, and evaluation
+
 ├── creditcard.csv                  # Dataset used for training and testing the model
+
 └── README.md                       # Project documentation
+
 
 ## Future Enhancements
 
